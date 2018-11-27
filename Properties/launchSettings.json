@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FSDemoProject": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\share\\"
+    }
+  }
+}
